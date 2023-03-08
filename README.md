@@ -1,3 +1,3 @@
-# androidstudio
-For educational purposes only.
-//...POWER G
+#androidstudio
+
+BSCS - OSO, M.
